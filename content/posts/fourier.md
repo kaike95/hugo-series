@@ -170,4 +170,4 @@ plt.grid(True)
 plt.show()
 ```
 
-![Série de Fourier criada em Python](../images/fourier.png)
+![Série de Fourier criada em Python](/images/fourier.png)

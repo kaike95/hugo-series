@@ -73,4 +73,4 @@ plt.legend()
 plt.grid(True)
 
 ```
-![Série de Taylor criada em Python](../images/taylor.png)
+![Série de Taylor criada em Python](/images/taylor.png)
