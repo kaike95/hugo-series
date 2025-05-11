@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Blog FESA</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Blog FESA</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Série de Fourier: Descrição, Exemplo, Aplicação e Código</title>
+      <link>https://example.org/posts/fourier/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/fourier/</guid>
+      <description>&lt;h2 id=&#34;o-que-é-uma-série-de-fourier&#34;&gt;O que é uma série de Fourier?&lt;/h2&gt;
+&lt;p&gt;A Série de Fourier pode ser explicada através da música. Existem 7 notas, sendo elas: Dó, Ré, Mi, Fá, Sol, Lá e Si. Nessa ordem específica, é representada a escala de Dó maior. No intervalo entre elas geralmente há 1 tom; somente entre Mi/Fá e Si/Dó há um semitom separando-as. Isso acontece porque, diferente das demais notas, Mi e Si não possuem sua forma sustenido ou bemol.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Série de Maclaurin: Descrição, Exemplo, Aplicações e Código</title>
+      <link>https://example.org/posts/maclaurin/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/maclaurin/</guid>
+      <description>&lt;p&gt;As séries de Maclaurin são uma ferramenta poderosa no campo do cálculo, amplamente utilizada para aproximar funções em torno de um ponto específico, normalmente o ponto \(x=0\). Elas são um caso especial das séries de Taylor, onde a expansão ocorre em torno de zero.&lt;/p&gt;
+&lt;h2 id=&#34;o-que-é-uma-série-de-maclaurin&#34;&gt;O que é uma Série de Maclaurin?&lt;/h2&gt;
+&lt;p&gt;A série de Maclaurin de uma função \(f(x)\) é dada por uma soma infinita de termos baseados nas derivadas de \(f(x)\) avaliadas em \(x=0\). A fórmula geral para a série de Maclaurin é:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Série de Taylor: Descrição, Exemplo, Aplicação e Código</title>
+      <link>https://example.org/posts/series/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/series/</guid>
+      <description>Entenda de forma intuitiva como a Série de Taylor funciona, com exemplo usando logaritmo neperiano, aplicações práticas em sensores e código Python para simulação.</description>
+    </item>
+  </channel>
+</rss>

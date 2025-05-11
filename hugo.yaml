@@ -1,0 +1,26 @@
+baseURL: https://example.org/
+languageCode: pt-br
+title: Blog FESA
+
+theme: ["PaperMod"]
+
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
+params:
+  math: true
+
+caches:
+  images:
+    dir: :cacheDir/images
