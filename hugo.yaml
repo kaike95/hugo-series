@@ -20,7 +20,3 @@ markup:
         enable: true
 params:
   math: true
-
-caches:
-  images:
-    dir: :cacheDir/images
