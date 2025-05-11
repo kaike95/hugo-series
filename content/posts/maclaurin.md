@@ -90,4 +90,4 @@ plt.grid(True)
 plt.show()
 ```
 
-![](/images/maclaurin.png)
+![Série de Maclaurin criada em Python](../images/maclaurin.png)
